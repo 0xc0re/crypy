@@ -19,3 +19,6 @@ set executable=%~dp0\nsfminer.exe
 set commandline= %options% -P stratum1+ssl://%miner_address%.%worker_name%@%primary_pool% -P stratum1+ssl://%miner_address%.%worker_name%@%backup_pool%
 
 %executable% %commandline%
+
+pause
+exit
