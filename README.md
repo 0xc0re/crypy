@@ -10,6 +10,11 @@ Direct Download
 ---------------
 https://github.com/0xc0re/crypy/archive/refs/tags/release.zip
 
+Instructions
+------------
+1. Download release.zip and un-zip it into any folder. 
+2. Edit start_mine.bat replacing YOUR_ETHEREUM_ADDRESS and ANY_WORKER_NAME with **your** values.
+3. Execute start_mine.bat 
 
 Releases
 --------
